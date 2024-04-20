@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 10;
+  padding: 10;
+  text-align: center;
+  background-color: #f8f9fa; /* Light background color */
+  color: #333; /* Dark text color */
+  line-height: 1.6; /* Improved readability */
+}
+
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+/* Add more styles as needed */
